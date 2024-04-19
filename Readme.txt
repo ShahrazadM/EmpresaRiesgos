@@ -26,7 +26,7 @@ Proceso para el Desarrollo del Proyecto:
 7) Realizamos las pruebas pertinentes para que el proyecto se ejecute correctamente, verificamos que la elaboración del proyecto cumpla con las Normas SOLID.
 8) Finalmente creamos un archivo plano Readmi.txt para indicar la resolucion del proyecto. Y ubicamos el proyecto en el repositorio GitHub.
 
-DIAGRAMA PROYECTO PREVENCIÓN RIESGOS
+DIAGRAMA EMPRESA RIESGOS
 
 LINK ACCESO A GITHUB
 Ruben Riquelme:
